@@ -1,2 +1,2 @@
 # react-term-project
-react, nextjs, typescript
+use react, nextjs, typescript
